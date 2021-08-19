@@ -6,6 +6,7 @@ MTN Cote d’Ivoire is one of Africa’s leading telecommunications companies. F
 As a data scientist here at MTN Cote d’Ivoire, my team has been tasked with collecting, cleaning, and analyzing all possible datasets concerning changing technology trends as well as customer needs and preferences to ensure that this company maintains its well-established reputation and prove to the world that it deserves the title of ‘leading telecommunication company in Africa.
 
 Datasets used:
+
 https://drive.google.com/a/moringaschool.com/file/d/1-rIM5ihDu79RaH7rAs-d-7SQSAQhrY9N/view?usp=sharing
 https://drive.google.com/a/moringaschool.com/file/d/1ABZux280OjL3yWcOn8BDA_f5QsyO0QPU/view?usp=sharing
 https://drive.google.com/open?id=1cVoNXl25IO5-_yQk97ThdeqhE6yw8YTD
